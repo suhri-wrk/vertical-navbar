@@ -7,6 +7,3 @@ you can find more information to build vertical navbar at https://www.w3schools.
 
 ![Animasi](https://raw.githubusercontent.com/USERNAME/REPO/main/path/to/animation.gif)
 
-
-![Alt Text](https://raw.githubusercontent.com/suhri-wrk/vertical-navbar/main/demo.gif)
-
